@@ -3,12 +3,9 @@
 // ─────────────────────────────────────────────────────────────
 
 export const couple = {
-  /** Shown in the hero, e.g. "Aung & Su" */
   him: "You",
   her: "Me",
-  /** The day it all started (local time). Used by every counter. */
-  since: "2025-11-22T00:00:00",
-  /** Short line under the names */
+  since: "2024-04-22T00:00:00",
   tagline: "A little film about the two of us",
 };
 
@@ -78,7 +75,7 @@ export const videos = rawVideos.map(img);
 export const heroPhotos = [p(15), p(1), p(21), p(13), p(25), p(19)];
 
 export const reel = [
-  { src: p(1), title: "The first table we shared", note: "Dinner, nerves, and way too much smiling." },
+  { src: p(1), title: "Official one year anniversary", note: "Celebrating a year of memories." },
   { src: p(11), title: "Little moments", note: "The ones nobody else noticed." },
   { src: p(12), title: "Wide awake", note: "Every frame is better with you in it." },
   { src: p(14), title: "Just us", note: "No plans. Exactly the plan." },
