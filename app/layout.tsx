@@ -21,7 +21,7 @@ const script = Pinyon_Script({
 });
 
 export const metadata: Metadata = {
-  title: "Our First Year ♥",
+  title: "MgMg & MaMa",
   description: "A little film about the two of us — happy anniversary.",
 };
 

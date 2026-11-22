@@ -3,8 +3,8 @@
 // ─────────────────────────────────────────────────────────────
 
 export const couple = {
-  him: "You",
-  her: "Me",
+  him: "MgMg",
+  her: "MaMa",
   since: "2024-04-22T00:00:00",
   tagline: "A little film about the two of us",
 };
